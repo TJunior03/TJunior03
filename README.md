@@ -26,7 +26,7 @@ Currently, I’m learning how to design and build scalable, automated, and secur
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming & Databases
-`Java` • `HTML` • `CSS` • `C++` • `MySQL` • `PostgreSQL`
+`Java` • `HTML` • `CSS` • `C++` • `C` • `MySQL` • `PostgreSQL`
 
 ### 🧩 Tools & Platforms
 `Git` • `GitHub` • `Visual Studio Code` • `Figma` • `Canva`
